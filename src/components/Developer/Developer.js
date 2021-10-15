@@ -1,4 +1,3 @@
-import { getDefaultNormalizer } from '@testing-library/dom';
 import React from 'react';
 import DeveloperList from '../DeveloperList/DeveloperList';
 import './Developer.css';
