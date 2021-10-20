@@ -7,8 +7,7 @@
       "Country": "USA",
       "Email": "jhankar@gmail.com",
       "Salary": "$1000",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
-      
+      "image":"./images/photo-1.jpg"
     },
     {
       "id": 2,
@@ -18,7 +17,7 @@
       "Country": "BD",
       "Email": "istiak@gmail.com",
       "Salary": "$1000",
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
+      "image":"./images/photo-2.jpg"
     },
     {
       "id": 3,

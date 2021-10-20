@@ -1,5 +1,5 @@
 h2{
-    color: salmon;
+    color: red;
     padding-bottom: 20px;
 }
 /* .font
@@ -7,7 +7,10 @@ h2{
     font-family: 'Righteous', cursive;
     /* background: linear-gradient(#333, #eee 75%, #333); */
 /* }  */
+.font{
 
+    background-color: rgb(211, 181, 104);
+}
 
   
  

@@ -31,7 +31,7 @@ const Developer = () => {
                     <p>Eikhaney cart krbo</p>
                 </div>
             </div> */}
-            <div className="row">
+            <div className="row mt-3">
                 <div className="col-md-9">
                     <div className="container">
                         <div className="row">

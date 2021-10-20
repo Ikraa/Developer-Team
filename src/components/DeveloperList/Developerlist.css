@@ -1,12 +1,10 @@
-.card_img{
-    width: 100%;
-    max-height: 250px;
+.card-body p{
+    font-size:16px;
 }
-.card_body2 p{
-    font-size: 12px;
-
-
+.rate{
+    font-size: 10px;
 }
-.card_body2{
-    
+.background-color{
+    background-color: black;
+    color: white;
 }
