@@ -1,5 +1,5 @@
 h2{
-    color: red;
+    color: olive;
     padding-bottom: 20px;
 }
 /* .font
@@ -9,8 +9,14 @@ h2{
 /* }  */
 .font{
 
-    background-color: rgb(211, 181, 104);
-}
+    background-color: #808080;
 
+}
+.backgroundColor{
+    background-color: #F0FFF0;
+}
+.p-font{
+    font-weight: 500;
+}
   
  

@@ -1,10 +1,22 @@
+/* basic style  */
 .card-body p{
     font-size:16px;
 }
+/* rating style */
 .rate{
     font-size: 10px;
 }
+/* background style */
 .background-color{
-    background-color: black;
+    background-color:#F0FFF0;
+}
+/* link style */
+.url-link
+{
+    font-size: 30px;
+}
+/* button style */
+.button :hover{
     color: white;
+    padding: 4px;
 }
