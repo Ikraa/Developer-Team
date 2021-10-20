@@ -6,7 +6,9 @@
       "Age": 30,
       "Country": "USA",
       "Email": "jhankar@gmail.com",
-      "Salary": "$1000"
+      "Salary": "$1000",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
+      
     },
     {
       "id": 2,
@@ -15,7 +17,8 @@
       "Age": 26,
       "Country": "BD",
       "Email": "istiak@gmail.com",
-      "Salary": "$1000"
+      "Salary": "$1000",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
     },
     {
       "id": 3,
@@ -24,7 +27,8 @@
       "Age": 32,
       "Country": "USA",
       "Email": "olinda@gmail.com",
-      "Salary": "$1000"
+      "Salary": "$1000",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
     },
     {
       "id": 4,
@@ -99,15 +103,6 @@
       "Salary": "$980"
     },
     {
-      "id": 12,
-      "Name": "Sumit Shaha",
-      "Profession": "Web Developer",
-      "Age": 30,
-      "Country": "BD",
-      "Email": "sumit000@gmail.com",
-      "Salary": "$1000"
-    },
-    {
       "id": 13,
       "Name": "Shehwar",
       "Profession": "Front-End Developer",
@@ -115,23 +110,6 @@
       "Country": "Japan",
       "Email": "shehwar@gmail.com",
       "Salary": "$800"
-    },
-    {
-      "id": 14,
-      "Name": "Shayekh",
-      "Profession": "Mobile App Games Developer",
-      "Age": 28,
-      "Country": "UK",
-      "Email": "shayekh11@gmail.com",
-      "Salary": "$800"
-    },
-    {
-      "id": 15,
-      "Name": "Dirian",
-      "Profession": "Web Developer & Software Engineer",
-      "Age": 43,
-      "Country": "German",
-      "Email": "Dirian20@gmail.com",
-      "Salary": "$1000"
     }
+    
   ]

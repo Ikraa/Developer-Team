@@ -3,11 +3,9 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-// import DeveloperTeam from './components/Developer/DeveloperTeam';
 
 ReactDOM.render(
 
-  // <DeveloperTeam/>,
   <App/>,
   document.getElementById('root')
 );

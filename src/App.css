@@ -45,3 +45,9 @@
     transform: rotate(360deg);
   }
 } */
+
+
+.card_image{
+  height: 100%;
+  width: auto;
+}
