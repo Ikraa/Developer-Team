@@ -6,7 +6,7 @@
       "Age": 30,
       "Country": "USA",
       "Email": "jhankar@gmail.com",
-      "Salary": "$1000",
+      "Salary": 1000,
       "image":"./images/photo-1.jpg"
     },
     {
@@ -16,7 +16,7 @@
       "Age": 26,
       "Country": "BD",
       "Email": "istiak@gmail.com",
-      "Salary": "$1000",
+      "Salary": 1000,
       "image":"./images/photo-2.jpg"
     },
     {
@@ -26,7 +26,7 @@
       "Age": 32,
       "Country": "USA",
       "Email": "olinda@gmail.com",
-      "Salary": "$1000",
+      "Salary": 1000,
       "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
     },
     {
@@ -36,7 +36,7 @@
       "Age": 33,
       "Country": "UK",
       "Email": "alinia@gmail.com",
-      "Salary": "$900"
+      "Salary": 900
     },
     {
       "id": 5,
@@ -45,7 +45,7 @@
       "Age": 30,
       "Country": "USA",
       "Email": "karina@gmail.com",
-      "Salary": "$1000"
+      "Salary": 1000
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "Age": 38,
       "Country": "India",
       "Email": "rajendro@gmail.com",
-      "Salary": "$1000"
+      "Salary": 1000
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "Age": 24,
       "Country": "BD",
       "Email": "ikra@gmail.com",
-      "Salary": "$1000"
+      "Salary": 1000
     },
     {
       "id": 8,
@@ -72,7 +72,7 @@
       "Age": 19,
       "Country": "BD",
       "Email": "ima@gmail.com",
-      "Salary": "$850"
+      "Salary": 850
     },
     {
       "id": 9,
@@ -81,7 +81,7 @@
       "Age": 40,
       "Country": "BD",
       "Email": "mahmud3@gmail.com",
-      "Salary": "$950"
+      "Salary": 950.20
     },
     {
       "id": 10,
@@ -90,7 +90,7 @@
       "Age": 29,
       "Country": "India",
       "Email": "anik7@gmail.com",
-      "Salary": "$800"
+      "Salary": 800
     },
     {
       "id": 11,
@@ -99,7 +99,7 @@
       "Age": 49,
       "Country": "Nigeria",
       "Email": "michel@gmail.com",
-      "Salary": "$980"
+      "Salary": 980.80
     },
     {
       "id": 13,
@@ -108,7 +108,7 @@
       "Age": 30,
       "Country": "Japan",
       "Email": "shehwar@gmail.com",
-      "Salary": "$800"
+      "Salary": 802
     }
     
   ]

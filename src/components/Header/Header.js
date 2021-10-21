@@ -5,8 +5,8 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 const Header = () => {
     return (
         // header part
-        <div className='container font py-1 w-75'>
-            <div className="pt-3 border rounded-pill backgroundColor text-center">
+        <div className='container header-bgColor py-1 w-75 shadow'>
+            <div className="pt-3 border rounded-pill header-color text-center">
                 <h1 className="py-3 fw-bold">
                     Developer Team
                 </h1>

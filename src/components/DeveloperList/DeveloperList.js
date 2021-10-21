@@ -9,7 +9,7 @@ const DeveloperList = (props) => {
         // console.log(props.developer);
     return (
 
-        <div class="card h-100 p-2 background-color" >
+        <div class="card h-100 p-2 background-color shadow" >
             {/* add image */}
             <div>
                 <img style={{ height: "100%", width: "auto", border: "50%" }}
