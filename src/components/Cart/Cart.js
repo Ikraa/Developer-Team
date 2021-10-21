@@ -21,7 +21,7 @@ const Cart = (props) => {
                         )
                         
                     }
-                        <hr/>
+                        <hr className="me-3"></hr>
                         <h5 className="mt-3 total">Total: $ {total}</h5>
 
                 </ol>
