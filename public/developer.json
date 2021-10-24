@@ -1,114 +1,124 @@
 [
-    {
-      "id": 1,
-      "Name": "Jhankar Mahbub",
-      "Profession": " Web developer & Software Engineer",
-      "Age": 30,
-      "Country": "USA",
-      "Email": "jhankar@gmail.com",
-      "Salary": 1000,
-      "image":"./images/photo-1.jpg"
-    },
-    {
-      "id": 2,
-      "Name": "Istiak Hasan Robin",
-      "Profession": " Web developer & Software Engineer",
-      "Age": 26,
-      "Country": "BD",
-      "Email": "istiak@gmail.com",
-      "Salary": 1000,
-      "image":"./images/photo-2.jpg"
-    },
-    {
-      "id": 3,
-      "Name": "Olinda",
-      "Profession": " Android Game App Developer",
-      "Age": 32,
-      "Country": "USA",
-      "Email": "olinda@gmail.com",
-      "Salary": 1000,
-      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
-    },
-    {
-      "id": 4,
-      "Name": "Alinia",
-      "Profession": " Mobile Application Developer",
-      "Age": 33,
-      "Country": "UK",
-      "Email": "alinia@gmail.com",
-      "Salary": 900
-    },
-    {
-      "id": 5,
-      "Name": "Karina Islam",
-      "Profession": "Web developer & Software Engineer",
-      "Age": 30,
-      "Country": "USA",
-      "Email": "karina@gmail.com",
-      "Salary": 1000
-    },
-    {
-      "id": 6,
-      "Name": "Rjendronath Ray",
-      "Profession": "Software Engineer & App Developer ",
-      "Age": 38,
-      "Country": "India",
-      "Email": "rajendro@gmail.com",
-      "Salary": 1000
-    },
-    {
-      "id": 7,
-      "Name": "Ikra",
-      "Profession": "Web Developer & Software Engineer",
-      "Age": 24,
-      "Country": "BD",
-      "Email": "ikra@gmail.com",
-      "Salary": 1000
-    },
-    {
-      "id": 8,
-      "Name": "Ima",
-      "Profession": "Front-End Developer",
-      "Age": 19,
-      "Country": "BD",
-      "Email": "ima@gmail.com",
-      "Salary": 850
-    },
-    {
-      "id": 9,
-      "Name": "Mahmud",
-      "Profession": "Web Developer",
-      "Age": 40,
-      "Country": "BD",
-      "Email": "mahmud3@gmail.com",
-      "Salary": 950.20
-    },
-    {
-      "id": 10,
-      "Name": "Anik Ray",
-      "Profession": "Backend Developer",
-      "Age": 29,
-      "Country": "India",
-      "Email": "anik7@gmail.com",
-      "Salary": 800
-    },
-    {
-      "id": 11,
-      "Name": "Michel",
-      "Profession": "Games Developer",
-      "Age": 49,
-      "Country": "Nigeria",
-      "Email": "michel@gmail.com",
-      "Salary": 980.80
-    },
-    {
-      "id": 13,
-      "Name": "Shehwar",
-      "Profession": "Front-End Developer",
-      "Age": 30,
-      "Country": "Japan",
-      "Email": "shehwar@gmail.com",
-      "Salary": 802
-    }
-    
-  ]
+  {
+    "id": 1,
+    "Name": "Jhankar Mahbub",
+    "Profession": " Web developer & Software Engineer",
+    "Age": 30,
+    "Country": "USA",
+    "Email": "jhankar@gmail.com",
+    "Salary": 1000,
+    "image":"/images/photo-1.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "Istiak Hasan Robin",
+    "Profession": " Web developer & Software Engineer",
+    "Age": 26,
+    "Country": "BD",
+    "Email": "istiak@gmail.com",
+    "Salary": 1000,
+    "image":"./images/photo-2.jpg"
+  },
+  {
+    "id": 3,
+    "Name": "Olinda",
+    "Profession": " Android Game App Developer",
+    "Age": 32,
+    "Country": "USA",
+    "Email": "olinda@gmail.com",
+    "Salary": 1000,
+    "image":"/images/photo-3.jpg"
+  },
+  {
+    "id": 4,
+    "Name": "Alinia",
+    "Profession": " Mobile Application Developer",
+    "Age": 33,
+    "Country": "UK",
+    "Email": "alinia@gmail.com",
+    "Salary": 900,
+    "image":"./images/photo-4.jpg"
+  },
+  {
+    "id": 5,
+    "Name": "Karina Islam",
+    "Profession": "Web developer & Software Engineer",
+    "Age": 30,
+    "Country": "USA",
+    "Email": "karina@gmail.com",
+    "Salary": 1000,
+    "image":"./images/photo-5.jpg"
+  },
+  {
+    "id": 6,
+    "Name": "Rjendronath Ray",
+    "Profession": "Software Engineer & App Developer ",
+    "Age": 38,
+    "Country": "India",
+    "Email": "rajendro@gmail.com",
+    "Salary": 1000,
+    "image":"./images/photo-6.jpg"
+  },
+  {
+    "id": 7,
+    "Name": "Ikra",
+    "Profession": "Web Developer & Software Engineer",
+    "Age": 24,
+    "Country": "BD",
+    "Email": "ikra@gmail.com",
+    "Salary": 1000,
+    "image":"./images/photo-7.jpg"
+  },
+  {
+    "id": 8,
+    "Name": "Ima",
+    "Profession": "Front-End Developer",
+    "Age": 19,
+    "Country": "BD",
+    "Email": "ima@gmail.com",
+    "Salary": 850,
+    "image":"./images/photo-8.jpg"
+  },
+  {
+    "id": 9,
+    "Name": "Mahmud",
+    "Profession": "Web Developer",
+    "Age": 40,
+    "Country": "BD",
+    "Email": "mahmud3@gmail.com",
+    "Salary": 950.20,
+    "image":"./images/photo-9.jpg"
+  },
+  {
+    "id": 10,
+    "Name": "Anik Ray",
+    "Profession": "Backend Developer",
+    "Age": 29,
+    "Country": "India",
+    "Email": "anik7@gmail.com",
+    "Salary": 800,
+    "image":"./images/photo-10.jpg"
+  },
+  {
+    "id": 11,
+    "Name": "Michel",
+    "Profession": "Games Developer",
+    "Age": 49,
+    "Country": "Nigeria",
+    "Email": "michel@gmail.com",
+    "Salary": 980.80,
+    "image":"./images/photo-11.jpg"
+  },
+  {
+    "id": 13,
+    "Name": "Shehwar",
+    "Profession": "Front-End Developer",
+    "Age": 30,
+    "Country": "Japan",
+    "Email": "shehwar@gmail.com",
+    "Salary": 802,
+    "image":"./images/photo-12.png"
+  }
+ 
+  
+]

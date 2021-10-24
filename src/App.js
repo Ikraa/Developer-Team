@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import Header from "./components/Header/Header";
-import Devoloper from './components/Developer/Developer'
+import Devoloper from './components/Developer/Developer';
+import './App.css';
 
 
 

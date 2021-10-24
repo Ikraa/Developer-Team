@@ -18,6 +18,14 @@ const Developer = () => {
         setCart(newCart)
         // console.log(newCart);
     }
+
+    // onRemove method add to delete item from cart
+
+ const onRemove=(product)=>{
+     setCart(cart.filter((x)=>x.id !==product.id))
+ }
+
+
     //  fetch and load data part
     useEffect(() => {
         fetch('/developer.json')
@@ -31,8 +39,7 @@ const Developer = () => {
 
             <div className="row mt-3">
                 <div className="col-md-9">
-                    <div className="container">
-                        <div className="row">
+                    <div className="row">
                             {
                                 developers.map(developer =>
                                     <div className="col-md-4 py-2">
@@ -45,11 +52,12 @@ const Developer = () => {
                                 )
                             }
                         </div>
-                    </div>
                 </div>
                 <div className="col-md-3">
                     <Cart 
-                    cart={cart}></Cart>
+                    cart={cart} onRemove={onRemove}>
+
+                    </Cart>
                 </div>
             </div>
         </div>
