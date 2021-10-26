@@ -4,9 +4,9 @@ It is a single page application made with ReactJS, bootstrap5 CSS etc...
 ### Live Demo of this website :
 [Live site link](https://developer-team-ikraa.netlify.app/)
 
-### Deployment
+### Deployment:
 here is link: https://developer-team-ikraa.netlify.app/
-### Screenshot
+### Screenshot:
 ![image](https://user-images.githubusercontent.com/42388135/138908964-d4896362-ca1f-46e6-be1d-59cfc7c17ec4.png)
 
 ![image](https://user-images.githubusercontent.com/42388135/138911472-55525cbe-99a8-4d32-accd-bdb4aba2d3f6.png)
