@@ -7,6 +7,7 @@
     "Country": "USA",
     "Email": "jhankar@gmail.com",
     "Salary": 1000,
+    "star":  5,
     "image":"/images/photo-1.jpg"
   },
   {
@@ -17,16 +18,18 @@
     "Country": "BD",
     "Email": "istiak@gmail.com",
     "Salary": 1000,
+    "star":  4.5,
     "image":"./images/photo-2.jpg"
   },
   {
     "id": 3,
-    "Name": "Olinda",
+    "Name": "Olinda Nisa",
     "Profession": " Android Game App Developer",
     "Age": 32,
     "Country": "USA",
     "Email": "olinda@gmail.com",
     "Salary": 1000,
+    "star":  4.5,
     "image":"/images/photo-3.jpg"
   },
   {
@@ -37,6 +40,7 @@
     "Country": "UK",
     "Email": "alinia@gmail.com",
     "Salary": 900,
+    "star":  3,
     "image":"./images/photo-4.jpg"
   },
   {
@@ -47,16 +51,18 @@
     "Country": "USA",
     "Email": "karina@gmail.com",
     "Salary": 1000,
+    "star":  5,
     "image":"./images/photo-5.jpg"
   },
   {
     "id": 6,
-    "Name": "Rjendronath Ray",
+    "Name": "Rjendro Ray",
     "Profession": "Software Engineer & App Developer ",
     "Age": 38,
     "Country": "India",
     "Email": "rajendro@gmail.com",
     "Salary": 1000,
+    "star":  3.5,
     "image":"./images/photo-6.jpg"
   },
   {
@@ -67,6 +73,7 @@
     "Country": "BD",
     "Email": "ikra@gmail.com",
     "Salary": 1000,
+    "star":  5,
     "image":"./images/photo-7.jpg"
   },
   {
@@ -77,6 +84,7 @@
     "Country": "BD",
     "Email": "ima@gmail.com",
     "Salary": 850,
+    "star":  4.3,
     "image":"./images/photo-8.jpg"
   },
   {
@@ -87,6 +95,7 @@
     "Country": "BD",
     "Email": "mahmud3@gmail.com",
     "Salary": 950.20,
+    "star":  4.9,
     "image":"./images/photo-9.jpg"
   },
   {
@@ -97,6 +106,7 @@
     "Country": "India",
     "Email": "anik7@gmail.com",
     "Salary": 800,
+    "star":  3,
     "image":"./images/photo-10.jpg"
   },
   {
@@ -107,6 +117,7 @@
     "Country": "Nigeria",
     "Email": "michel@gmail.com",
     "Salary": 980.80,
+    "star":  4.2,
     "image":"./images/photo-11.jpg"
   },
   {
@@ -117,6 +128,7 @@
     "Country": "Japan",
     "Email": "shehwar@gmail.com",
     "Salary": 802,
+    "star":  3.5,
     "image":"./images/photo-12.png"
   }
  
